@@ -29,11 +29,10 @@
 - [About](#about)
 - [Installation](#installation)
 - [Getting Started](#getting-started)
+- [Tutorials](../TODO.md)
 - [Built Using](#built_using)
-- [TODO](../TODO.md)
-- [Contributing](../CONTRIBUTING.md)
 - [Authors](#authors)
-- [Acknowledgments](#acknowledgement)
+- [References](#acknowledgement)
 
 ## 🧐 About <a name = "about"></a>
 
@@ -105,6 +104,39 @@ pip install -iU https://test.pypi.org/simple/ pytorch-lightning
 
 - [Pytorch](https://pytorch.org/) - Deep learning Library Design by [Facebook](https://github.com/facebook)
 - [Python](https://www.python.org/) - Programming Language 
+
+## ⛹️‍♂️ Tutorials
+###### Hello world
+
+- [ ] [MNIST hello world](https://pytorch-lightning.readthedocs.io/en/latest/notebooks/lightning_examples/mnist-hello-world.html)
+
+###### Contrastive Learning
+
+- [ ] [BYOL](https://lightning-bolts.readthedocs.io/en/stable/deprecated/models/self_supervised.html#byol)
+- [ ] [CPC v2](https://lightning-bolts.readthedocs.io/en/stable/deprecated/models/self_supervised.html#cpc-v2)
+- [ ] [Moco v2](https://lightning-bolts.readthedocs.io/en/stable/deprecated/models/self_supervised.html#moco-v2-api)
+- [ ] [SIMCLR](https://lightning-bolts.readthedocs.io/en/stable/deprecated/models/self_supervised.html#simclr)
+
+###### NLP
+
+- [ ] [GPT-2](https://lightning-bolts.readthedocs.io/en/stable/deprecated/models/convolutional.html#gpt-2)
+- [ ] [BERT](https://pytorch-lightning.readthedocs.io/en/latest/notebooks/lightning_examples/text-transformers.html)
+
+###### Reinforcement Learning
+
+- [ ] [DQN](https://lightning-bolts.readthedocs.io/en/stable/deprecated/models/reinforce_learn.html#dqn-models)
+- [ ] [Dueling-DQN](https://lightning-bolts.readthedocs.io/en/stable/deprecated/models/reinforce_learn.html#dueling-dqn)
+- [ ] [Reinforce](https://lightning-bolts.readthedocs.io/en/stable/deprecated/models/reinforce_learn.html#reinforce)
+
+###### Vision
+
+- [GAN](https://pytorch-lightning.readthedocs.io/en/latest/notebooks/lightning_examples/basic-gan.html)
+
+###### Classic ML
+
+- [Logistic Regression](https://lightning-bolts.readthedocs.io/en/stable/deprecated/models/classic_ml.html#logistic-regression)
+- [Linear Regression](https://lightning-bolts.readthedocs.io/en/stable/deprecated/models/classic_ml.html#linear-regression)
+
 
 ## 🧑‍💻 Initial Start <a name="getting-started"></a>
 ### Step 1: Add these imports
@@ -305,8 +337,7 @@ ______________________________________________________________________
 
 See also the list of [contributors](https://github.com/kylelobo/The-Documentation-Compendium/contributors) who participated in this project.
 
-## 🎉 Acknowledgements <a name = "acknowledgement"></a>
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- References
+## 🎉 References <a name = "acknowledgement"></a>
+ 1. "GitHub - PyTorch Lightning". 2019-12-01.
+ 2. "Reproducibility Challenge @NeurIPS 2019". NeurIPS. 2019-12-01. Retrieved 2019-12-01.
+ 3. https://github.com/Lightning-AI/lightning
