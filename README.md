@@ -29,7 +29,7 @@
 - [About](#about)
 - [Installation](#installation)
 - [Getting Started](#getting-started)
-- [Tutorials](../TODO.md)
+- [Tutorials](#tutorials)
 - [Built Using](#built_using)
 - [Authors](#authors)
 - [References](#acknowledgement)
@@ -105,7 +105,7 @@ pip install -iU https://test.pypi.org/simple/ pytorch-lightning
 - [Pytorch](https://pytorch.org/) - Deep learning Library Design by [Facebook](https://github.com/facebook)
 - [Python](https://www.python.org/) - Programming Language 
 
-## ⛹️‍♂️ Tutorials
+## ⛹️‍♂️ Tutorials <a name="tutorials"></a>
 ###### Hello world
 
 - [x] [MNIST hello world](https://raw.githubusercontent.com/ashishpatel26/PyTorch_Lightning_Tutorials/main/Notebooks/mnist_hello_world.ipynb)
