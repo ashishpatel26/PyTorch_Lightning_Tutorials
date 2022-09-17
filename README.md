@@ -108,7 +108,7 @@ pip install -iU https://test.pypi.org/simple/ pytorch-lightning
 ## ⛹️‍♂️ Tutorials <a name="tutorials"></a>
 ###### Hello world
 
-- [x] [MNIST hello world](https://raw.githubusercontent.com/ashishpatel26/PyTorch_Lightning_Tutorials/main/Notebooks/mnist_hello_world.ipynb)
+- [x] [MNIST hello world](https://nbviewer.ipython.org/github/ashishpatel26/PyTorch_Lightning_Tutorials/blob/main/Notebooks/mnist_hello_world.ipynb)
 
 ###### Contrastive Learning
 
