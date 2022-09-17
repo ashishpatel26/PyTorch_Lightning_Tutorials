@@ -341,3 +341,4 @@ See also the list of [contributors](https://github.com/kylelobo/The-Documentatio
  1. "GitHub - PyTorch Lightning". 2019-12-01.
  2. "Reproducibility Challenge @NeurIPS 2019". NeurIPS. 2019-12-01. Retrieved 2019-12-01.
  3. https://github.com/Lightning-AI/lightning
+ 4. https://uvadlc-notebooks.readthedocs.io/en/latest/tutorial_notebooks/
